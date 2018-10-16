@@ -1,0 +1,14 @@
+
+*.log
+*.uasset
+*.ini
+*.umap
+*.response
+*.json
+*.lib
+*.exp
+*.runtime-xml
+*.dmp
+*.bin
+*.pdb
+*.dll
